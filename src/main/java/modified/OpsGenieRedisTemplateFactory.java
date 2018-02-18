@@ -22,7 +22,6 @@ import java.util.List;
 
 import opsgenie.CacheElement;
 import opsgenie.CacheValueType;
-import opsgenie.DelegatingRedisSerializer;
 import opsgenie.RedisEncryption;
 import opsgenie.RedisTemplateFactory;
 

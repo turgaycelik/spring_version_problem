@@ -1,4 +1,4 @@
-package opsgenie;
+package modified;
 
 import org.springframework.data.redis.serializer.RedisSerializer;
 import org.springframework.data.redis.serializer.SerializationException;
